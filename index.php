@@ -154,7 +154,7 @@
                                             <div class="now_page_resize">
                                                 <div><h1>Our Services</h1></div><br/>
                                                 <div class="colums_box no_bg colums_box_1 first">
-                                                    <strong><img src="images/r_arrow.png" alt="" />&nbsp; Building and Plant Engineering Design and Review</strong>
+                                                    <strong><img src="images/r_arrow.png" alt="" /> Building and Plant <br/> Engineering Design and Review</strong>
                                                 </div>
                                                 <div class="colums_box no_bg colums_box_2">
                                                     <strong><img src="images/r_arrow.png" alt="" /> Energy Infrastructure <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planning and Assessment</strong>
@@ -165,15 +165,9 @@
                                                 <div class="colums_box no_bg colums_box_4">
                                                     <strong><img src="images/r_arrow.png" alt="" /> Central Heating and <br/> &nbsp;&nbsp;&nbsp;&nbsp; Cooling Plant(s) Design</strong>
                                                 </div>
-                                                <div class="clr"></div>
-                                            </div>
-                                            <div class="clr"></div>
-                                        </div>
-                                    </div>
-                                    <div class="clr"></div>
-                                    <div class="container">
-                                        <div class="sixteen columns">
-                                            <div class="now_page_resize">
+                                                
+                                                <div class="separator"></div>
+                                                
                                                 <div class="colums_box no_bg colums_box_1 first">
                                                     <strong><img src="images/r_arrow.png" alt="" /> Cogeneration Plant <br/> &nbsp;&nbsp;&nbsp;&nbsp; Powering and Optimization</strong>
                                                 </div>
@@ -186,9 +180,9 @@
                                                 <div class="colums_box no_bg colums_box_4">
                                                     <strong><img src="images/r_arrow.png" alt="" /> Engineering Systems <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design and Review</strong>
                                                 </div>
-                                                <div class="clr"></div>
                                             </div>
-                                            <div class="clr"></div>
+                                            
+                                            <div class="separator"></div>
                                         </div>
                                     </div>
                                 </div>
