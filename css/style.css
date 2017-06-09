@@ -1283,7 +1283,7 @@ p.added {font-size: 12px; text-align: left; color: #494949; text-transform: none
 
 #mailform-subscribe {
 	color: #fff;
-	padding: 20px 15px;
+	padding: 20px 0px 20px 0px;
 	text-shadow: 1px 1px #111;
 }
 #mailform-subscribe input {
@@ -1297,7 +1297,7 @@ p.added {font-size: 12px; text-align: left; color: #494949; text-transform: none
 }
 #mailform-subscribe input.email {
 	background: #fff url(../images/mailform-subscribe.png) no-repeat 10px center;
-	padding-left: 32px
+	padding-left: 16px
 }
 #mailform-subscribe input[type="submit"] {
 	margin: 3px;
