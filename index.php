@@ -166,6 +166,19 @@
                                                     <strong><img src="images/r_arrow.png" alt="" /> Central Heating and <br/> &nbsp;&nbsp;&nbsp;&nbsp; Cooling Plant(s) Design</strong>
                                                 </div>
                                                 
+                                                <div class="colums_box no_bg colums_box_1 first">
+                                                    <strong><img src="images/r_arrow.png" alt="" /> Building and Plant <br/> Engineering Design and Review</strong>
+                                                </div>
+                                                <div class="colums_box no_bg colums_box_2">
+                                                    <strong><img src="images/r_arrow.png" alt="" /> Energy Infrastructure <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planning and Assessment</strong>
+                                                </div>
+                                                <div class="colums_box no_bg colums_box_3">
+                                                    <strong><img src="images/r_arrow.png" alt="" /> Energy Efficiency <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Studies and Retrofits</strong>
+                                                </div>
+                                                <div class="colums_box no_bg colums_box_4">
+                                                    <strong><img src="images/r_arrow.png" alt="" /> Central Heating and <br/> &nbsp;&nbsp;&nbsp;&nbsp; Cooling Plant(s) Design</strong>
+                                                </div>
+                                                
                                                 <div class="separator"></div>
                                                 
                                                 <div class="colums_box no_bg colums_box_1 first">
