@@ -1,0 +1,81 @@
+// <![CDATA[
+document.writeln('<ul class="menusm" id="menu-top-menu">');
+    document.writeln('<li><a><span>Company</span></a>');
+        document.writeln('<ul>');
+            document.writeln('<li><a class="menu_navigation"><span>About Us</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>Customers</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>Newsroom</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>Team</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>Testimonials</span></a></li>');
+        document.writeln('</ul>');
+    document.writeln('</li>');
+
+    document.writeln('<li><a href="#" class="menu_navigation"><span>Services</span></a>');
+        document.writeln('<ul>');
+            document.writeln('<li><a class="menu_navigation"><span>Building Commissioning</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>CHP Plant Optimization</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>DES Hourly Modeling</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>Energy Feasibility Studies</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>Energy Infrastructure</span></a>');
+                document.writeln('<ul>');
+                    document.writeln('<li><a class="menu_navigation"><span>Energy Master Planning</span></a></li>');
+                    document.writeln('<li><a class="menu_navigation"><span>Engineering Design Review</span></a></li>');
+                    document.writeln('<li><a class="menu_navigation"><span>Leed Consulting</span></a></li>');
+                    document.writeln('<li><a class="menu_navigation"><span>Lighting Systems Design</span></a></li>');
+                    document.writeln('<li><a class="menu_navigation"><span>Mechanical Systems Design</span></a></li>');
+                document.writeln('</ul>');
+            document.writeln('</li>');
+            document.writeln('<li><a class="menu_navigation"><span>Renewables</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>Smart Metering</span></a></li>');
+        document.writeln('</ul>');
+    document.writeln('</li>');
+
+    document.writeln('<li><a href="#" class="menu_navigation"><span>Software</span></a>');
+        document.writeln('<ul>');
+            document.writeln('<li><a class="menu_navigation"><span>Custom</span></a>');
+                document.writeln('<ul>');
+                    document.writeln('<li><a class="menu_navigation"><span>Custom Development</span></a></li>');
+                document.writeln('</ul>');
+            document.writeln('</li>');
+            document.writeln('<li><a class="menu_navigation"><span>Energy</span></a>');
+                document.writeln('<ul>');
+                    document.writeln('<li><a class="menu_navigation"><span>DES-SIM/8760</span></a></li>');
+                    document.writeln('<li><a class="menu_navigation"><span>Scheduling Gateway</span></a></li>');
+                document.writeln('</ul>');
+            document.writeln('</li>');
+            document.writeln('<li><a class="menu_navigation"><span>Lighting</span></a>');
+                document.writeln('<ul>');
+                    document.writeln('<li><a class="menu_navigation"><span>CELite Touch</span></a></li>');
+                document.writeln('</ul>');
+            document.writeln('</li>');
+            document.writeln('<li><a class="menu_navigation"><span>Metering</span></a>');
+                document.writeln('<ul>');
+                    document.writeln('<li><a class="menu_navigation"><span>iWattMeter</span></a></li>');
+                    document.writeln('<li><a class="menu_navigation"><span>WattCafe</span></a></li>');
+                document.writeln('</ul>');
+            document.writeln('</li>');
+            document.writeln('<li><a class="menu_navigation"><span>Utility Management</span></a>');
+                document.writeln('<ul>');
+                    document.writeln('<li><a class="menu_navigation"><span>EnergyProjects.NET</span></a></li>');
+                    document.writeln('<li><a class="menu_navigation"><span>EnergySQL</span></a></li>');
+                document.writeln('</ul>');
+            document.writeln('</li>');
+        document.writeln('</ul>');
+    document.writeln('</li>');
+    
+    document.writeln('<li><a href="#" class="menu_navigation"><span>Portfolio</span></a>');
+        document.writeln('<ul>');
+            document.writeln('<li><a class="menu_navigation"><span>Cities and Countries</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>Higher Education</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>Private Sector</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>School Districts</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>State Government</span></a></li>');
+            document.writeln('<li><a class="menu_navigation"><span>Utilities</span></a></li>');
+        document.writeln('</ul>');
+    document.writeln('</li>');
+    
+    document.writeln('<li><a href="contact.html" class="menu_navigation"><span>Contact</span></a></li>');
+document.writeln('</ul>');
+document.writeln('<div class="clr"></div>');
+
+// ]]>
