@@ -168,19 +168,6 @@
                                                     <strong><img src="images/r_arrow.png" alt="" /> Central Heating and <br/> &nbsp;&nbsp;&nbsp;&nbsp; Cooling Plant(s) Design</strong>
                                                 </div>
                                                 
-                                                <div class="colums_box no_bg colums_box_1 first">
-                                                    <strong><img src="images/r_arrow.png" alt="" /> Cogeneration Plant <br/> &nbsp;&nbsp;&nbsp;&nbsp; Powering and Optimization</strong>
-                                                </div>
-                                                <div class="colums_box no_bg colums_box_2">
-                                                    <strong><img src="images/r_arrow.png" alt="" /> Building Commissioning <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and Design Peer Reviews</strong>
-                                                </div>
-                                                <div class="colums_box no_bg colums_box_3">
-                                                    <strong><img src="images/r_arrow.png" alt="" /> Utility Metering <br/> &nbsp;&nbsp; and Energy Dashboards</strong>
-                                                </div>
-                                                <div class="colums_box no_bg colums_box_4">
-                                                    <strong><img src="images/r_arrow.png" alt="" /> Engineering Systems <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Design and Review</strong>
-                                                </div>
-                                                
                                                 <div class="separator"></div>
                                                 
                                                 <div class="colums_box no_bg colums_box_1 first">
