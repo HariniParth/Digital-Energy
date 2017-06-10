@@ -152,7 +152,7 @@
                                     <div class="container">
                                         <div class="sixteen columns">
                                             <div class="now_page_resize">
-                                                <div><h1>Our Services</h1></div>
+                                                <div><h1><span>Our Services</span></h1></div>
                                                 <div class="separator"></div>
                                                 
                                                 <div class="colums_box no_bg colums_box_1 first">
