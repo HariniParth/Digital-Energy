@@ -274,9 +274,11 @@ h4 small { font-size:12px; color:#a6a6a6; margin-top:20px;}
 
 .now_page_resize h1 span {text-align: center; text-transform:none; font-weight: bold !important; font-size: 30px !important; color: #216da7; display: inline!important}
 
-.now_page_resize p { text-align: center; font-weight:lighter !important; font-size: 12px; color: #b5b5b5; margin-top: 10px;}
+.now_page_resize p { text-align: center; font-size: 16px; color: #216da7; margin-top: 10px;}
 
-
+.now_page_resize .colums_box.no_bg{
+    color: #216da7;
+}
 
 
 
